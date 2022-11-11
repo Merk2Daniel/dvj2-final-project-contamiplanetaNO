@@ -7,7 +7,7 @@ public class SpawnObjects : MonoBehaviour
     public GameObject[] objects;
 
     public float timeSpawn = 1;
-    public float repeatSpawnRate = 3; //tiempo en que se genera un nuevo objeto
+    public float repeatSpawnRate = 1; //tiempo en que se genera un nuevo objeto
     
     public Transform xRangeLeft;
     public Transform xRangeRight;
