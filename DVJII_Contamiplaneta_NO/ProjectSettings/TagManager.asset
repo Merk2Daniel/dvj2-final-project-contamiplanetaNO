@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Object
   - Floor
+  - Gripper
   layers:
   - Default
   - TransparentFX

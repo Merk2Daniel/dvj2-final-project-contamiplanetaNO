@@ -8,13 +8,14 @@ public class MoveDownObject : MonoBehaviour
     
     void Start()
     {
-        Destroy(gameObject, 20);
+        Destroy(gameObject, 15);
         
     }
 
-
     void Update()
     {
-        transform.position += -transform.up * Time.deltaTime * speed;
+        //transform.position += -transform.up * Time.deltaTime * speed;
     }
+
+    
 }
