@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2753535180998603600}
   - component: {fileID: 2753535180998603601}
   - component: {fileID: 2753535180998603602}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,7 +143,7 @@ GameObject:
   - component: {fileID: 2753535181263088702}
   - component: {fileID: 2753535181263088700}
   - component: {fileID: 2753535181263088701}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -177,7 +177,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.045646667, y: 0.13693893}
+  m_Offset: {x: 0.04114914, y: 0.13693905}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -188,7 +188,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 8.942467, y: 5.1081724}
+  m_Size: {x: 4.081889, y: 5.1081724}
   m_EdgeRadius: 0
 --- !u!114 &2753535181263088701
 MonoBehaviour:
@@ -203,5 +203,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obj: {fileID: 2753535180998603603}
-  mano: {fileID: 0}
+  player: {fileID: 0}
+  gripperUp: {fileID: 0}
+  gripperDown: {fileID: 0}
+  gripper: {fileID: 0}
   active: 0

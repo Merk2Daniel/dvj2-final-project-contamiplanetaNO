@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Object
   - Floor
+  - GripperUp
+  - GripperDown
   - Gripper
   layers:
   - Default
@@ -14,7 +16,7 @@ TagManager:
   - Objects
   - Water
   - UI
-  - 
+  - Player
   - 
   - 
   - 
