@@ -24,7 +24,7 @@ public class PlayerController : MonoBehaviour
     {
         Vector3 dir = Vector3.zero;
 
-        dir.x = Input.acceleration.x;/*Input.GetAxis("Horizontal");*/
+        dir.x =  /*Input.acceleration.x*/Input.GetAxis("Horizontal");
         dir.y = Input.acceleration.y;
         dir.z = Input.acceleration.z;
 

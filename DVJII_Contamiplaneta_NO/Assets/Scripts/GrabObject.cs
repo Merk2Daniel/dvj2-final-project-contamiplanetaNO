@@ -1,12 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class GrabObject : MonoBehaviour
-{  
-    public Touch myTouch;
-    
+{
     public GameObject obj;
     public GameObject player;
     
@@ -83,12 +81,7 @@ public class GrabObject : MonoBehaviour
     {
         if (active)
         {
-            if (Input.touchCount > 0)
-            {
-                myTouch = Input.GetTouch(0);
-            }
-
-            if (Input.GetKeyDown(KeyCode.E) || myTouch.tapCount == 1)
+            if (Input.GetKeyDown(KeyCode.E))
             {
                 obj.transform.SetParent(gripperUp);
                 obj.transform.position = gripperUp.position;
@@ -96,7 +89,7 @@ public class GrabObject : MonoBehaviour
                 animPlayer.SetBool("crouched", true); //AGREGADO
                 animPlayer.SetBool("grabbing", true); //AGREGADO
             }
-            if (Input.GetKeyDown(KeyCode.R) || myTouch.tapCount == 2)
+            if (Input.GetKeyDown(KeyCode.R))
             {
                 obj.transform.SetParent(null);
                 obj.GetComponent<Rigidbody2D>().gravityScale = 1;
@@ -111,10 +104,6 @@ public class GrabObject : MonoBehaviour
         animPlayer.SetBool("crouched", false); //AGREGADO
     }
 }
-
-
-
-
 
 
 
