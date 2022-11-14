@@ -1,0 +1,1957 @@
+fileFormatVersion: 2
+guid: a827ecb2010541849ac1de3b6c6a0135
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2729201005625403711
+    second: Contenedores y tipos de basura_0
+  - first:
+      213: -757570880960139431
+    second: Contenedores y tipos de basura_1
+  - first:
+      213: 4849320853201969252
+    second: Contenedores y tipos de basura_2
+  - first:
+      213: -4630563846479104165
+    second: Contenedores y tipos de basura_3
+  - first:
+      213: -4881561665775576006
+    second: Contenedores y tipos de basura_4
+  - first:
+      213: 5178153226264877984
+    second: Contenedores y tipos de basura_5
+  - first:
+      213: 6256115783558754209
+    second: Contenedores y tipos de basura_6
+  - first:
+      213: 1758477780138213298
+    second: Contenedores y tipos de basura_7
+  - first:
+      213: -7546553089003537784
+    second: Contenedores y tipos de basura_8
+  - first:
+      213: -7365821511121174464
+    second: Contenedores y tipos de basura_9
+  - first:
+      213: -4793090404928485864
+    second: Contenedores y tipos de basura_10
+  - first:
+      213: 5224479832925906620
+    second: Contenedores y tipos de basura_11
+  - first:
+      213: -4608943911101648495
+    second: Contenedores y tipos de basura_12
+  - first:
+      213: -8050008966376672937
+    second: Contenedores y tipos de basura_13
+  - first:
+      213: 3374699907280095095
+    second: Contenedores y tipos de basura_14
+  - first:
+      213: -6838324598251236642
+    second: Contenedores y tipos de basura_15
+  - first:
+      213: -7366552808080176736
+    second: Contenedores y tipos de basura_16
+  - first:
+      213: -1764659962394510575
+    second: Contenedores y tipos de basura_17
+  - first:
+      213: 6494226713147426171
+    second: Contenedores y tipos de basura_18
+  - first:
+      213: 53883094367295232
+    second: Contenedores y tipos de basura_19
+  - first:
+      213: 184409839428453671
+    second: Contenedores y tipos de basura_20
+  - first:
+      213: 5358132149243211557
+    second: Contenedores y tipos de basura_21
+  - first:
+      213: -157757312327051198
+    second: Contenedores y tipos de basura_22
+  - first:
+      213: -6150560995213480979
+    second: Contenedores y tipos de basura_23
+  - first:
+      213: 7850571062348355873
+    second: Contenedores y tipos de basura_24
+  - first:
+      213: -3419568479157819702
+    second: Contenedores y tipos de basura_25
+  - first:
+      213: 6053752846741820496
+    second: Contenedores y tipos de basura_26
+  - first:
+      213: -8411238586516809070
+    second: Contenedores y tipos de basura_27
+  - first:
+      213: 1474211499656064652
+    second: Contenedores y tipos de basura_28
+  - first:
+      213: 6174488836307453129
+    second: Contenedores y tipos de basura_29
+  - first:
+      213: 8956256197125558659
+    second: Contenedores y tipos de basura_30
+  - first:
+      213: -841236726847102038
+    second: Contenedores y tipos de basura_31
+  - first:
+      213: 6216016962814383806
+    second: Contenedores y tipos de basura_32
+  - first:
+      213: -8032780250377350295
+    second: Contenedores y tipos de basura_33
+  - first:
+      213: -258604063792038487
+    second: Contenedores y tipos de basura_34
+  - first:
+      213: 1297472933342761115
+    second: Contenedores y tipos de basura_35
+  - first:
+      213: 3582813368301094244
+    second: Contenedores y tipos de basura_36
+  - first:
+      213: 1479245671044846593
+    second: Contenedores y tipos de basura_37
+  - first:
+      213: 5573209330544739469
+    second: Contenedores y tipos de basura_38
+  - first:
+      213: 1768099447765385429
+    second: Contenedores y tipos de basura_39
+  - first:
+      213: -7288359901880145772
+    second: Contenedores y tipos de basura_40
+  - first:
+      213: 5166952065405891975
+    second: Contenedores y tipos de basura_41
+  - first:
+      213: -330815539353420078
+    second: Contenedores y tipos de basura_42
+  - first:
+      213: 7027851562015656621
+    second: Contenedores y tipos de basura_43
+  - first:
+      213: 2332986304700028872
+    second: Contenedores y tipos de basura_44
+  - first:
+      213: -6528750500014316470
+    second: Contenedores y tipos de basura_45
+  - first:
+      213: 6237623598266378220
+    second: Contenedores y tipos de basura_46
+  - first:
+      213: -2317744597139255261
+    second: Contenedores y tipos de basura_47
+  - first:
+      213: -674877887335440500
+    second: Contenedores y tipos de basura_48
+  - first:
+      213: -7332866806893189866
+    second: Contenedores y tipos de basura_49
+  - first:
+      213: 9129614438088723581
+    second: Contenedores y tipos de basura_50
+  - first:
+      213: 1107762574287083256
+    second: Contenedores y tipos de basura_51
+  - first:
+      213: -7427206302954142597
+    second: Contenedores y tipos de basura_52
+  - first:
+      213: 2103677309156093650
+    second: Contenedores y tipos de basura_53
+  - first:
+      213: 239293650153747906
+    second: Contenedores y tipos de basura_54
+  - first:
+      213: -8826502461044897298
+    second: Contenedores y tipos de basura_55
+  - first:
+      213: -615617177470195064
+    second: Contenedores y tipos de basura_56
+  - first:
+      213: -1032542557854290186
+    second: Contenedores y tipos de basura_57
+  - first:
+      213: -397859323933900176
+    second: Contenedores y tipos de basura_58
+  - first:
+      213: 7364167134977489522
+    second: Contenedores y tipos de basura_59
+  - first:
+      213: 5080954057109081858
+    second: Contenedores y tipos de basura_60
+  - first:
+      213: -4192401232898226936
+    second: Contenedores y tipos de basura_61
+  - first:
+      213: 8484100109643052870
+    second: Contenedores y tipos de basura_62
+  - first:
+      213: 2062982904907990271
+    second: Contenedores y tipos de basura_63
+  - first:
+      213: -6231479544268402735
+    second: Contenedores y tipos de basura_64
+  - first:
+      213: -8068333740800024887
+    second: Contenedores y tipos de basura_65
+  - first:
+      213: -4149221543222839818
+    second: Contenedores y tipos de basura_66
+  - first:
+      213: 8028368506348303442
+    second: Contenedores y tipos de basura_67
+  - first:
+      213: -1855462958868684280
+    second: Contenedores y tipos de basura_68
+  - first:
+      213: -1337967726602784649
+    second: Contenedores y tipos de basura_69
+  - first:
+      213: 5144431063881041952
+    second: Contenedores y tipos de basura_70
+  - first:
+      213: -1828897632198689012
+    second: Contenedores y tipos de basura_71
+  - first:
+      213: 2250605059785162420
+    second: Contenedores y tipos de basura_72
+  - first:
+      213: 8549294175966741476
+    second: Contenedores y tipos de basura_73
+  - first:
+      213: -5055299099408710164
+    second: Contenedores y tipos de basura_74
+  - first:
+      213: 5781611282711324231
+    second: Contenedores y tipos de basura_75
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2759
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39e0fccad110e520800000000000000
+      internalID: 2729201005625403711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_1
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 2065
+        width: 260
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe03c2c419c75f0800000000000000
+      internalID: -757570880960139431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2334
+        width: 123
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606ff88f9f3c4340800000000000000
+      internalID: 4849320853201969252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2351
+        width: 170
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b8d427beecbfb0800000000000000
+      internalID: -4630563846479104165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2377
+        width: 174
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c58425785314cb0800000000000000
+      internalID: -4881561665775576006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2500
+        width: 112
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9f0c9cee7cd740800000000000000
+      internalID: 5178153226264877984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_6
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2391
+        width: 255
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afebb8a82032d650800000000000000
+      internalID: 6256115783558754209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_7
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2427
+        width: 292
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3e86693e576810800000000000000
+      internalID: 1758477780138213298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_8
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 2430
+        width: 168
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a315be2f1454790800000000000000
+      internalID: -7546553089003537784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_9
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2602
+        width: 472
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04001b68c5857c990800000000000000
+      internalID: -7365821511121174464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_10
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 2525
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81687edeba58b7db0800000000000000
+      internalID: -4793090404928485864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_11
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 2503
+        width: 101
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6adb14ab4118840800000000000000
+      internalID: 5224479832925906620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_12
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 2213
+        width: 194
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191361d9eedb900c0800000000000000
+      internalID: -4608943911101648495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_13
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 2543
+        width: 304
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751b860fe7f984090800000000000000
+      internalID: -8050008966376672937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_14
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2320
+        width: 320
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77749fc8fa755de20800000000000000
+      internalID: 3374699907280095095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_15
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 2484
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25b6642046911a0800000000000000
+      internalID: -6838324598251236642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_16
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 2438
+        width: 174
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9893f204fb4c990800000000000000
+      internalID: -7366552808080176736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 2259
+        width: 142
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfe102d1ba287e0800000000000000
+      internalID: -1764659962394510575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_18
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2227
+        width: 287
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b754108a9c0202a50800000000000000
+      internalID: 6494226713147426171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_19
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 2383
+        width: 121
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007592b836e6fb000800000000000000
+      internalID: 53883094367295232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_20
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 2221
+        width: 255
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725483c95c72f8200800000000000000
+      internalID: 184409839428453671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_21
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 2284
+        width: 154
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fed371dc8eb5a40800000000000000
+      internalID: 5358132149243211557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_22
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 2284
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248960e6f888fcdf0800000000000000
+      internalID: -157757312327051198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1969
+        width: 458
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb6de6ac51d4aaa0800000000000000
+      internalID: -6150560995213480979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_24
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2269
+        width: 247
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1291c3f79c4d2fc60800000000000000
+      internalID: 7850571062348355873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_25
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2254
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6ecaaf5904b80d0800000000000000
+      internalID: -3419568479157819702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_26
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 2048
+        width: 154
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0545e04d320430450800000000000000
+      internalID: 6053752846741820496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_27
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 2182
+        width: 163
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5b99f117454b80800000000000000
+      internalID: -8411238586516809070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_28
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1789
+        width: 146
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eabc85c83757410800000000000000
+      internalID: 1474211499656064652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_29
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 2022
+        width: 380
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c488bdf1e030b550800000000000000
+      internalID: 6174488836307453129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_30
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2175
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3815f0b1f830b4c70800000000000000
+      internalID: 8956256197125558659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_31
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1771
+        width: 115
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3244c67a35354f0800000000000000
+      internalID: -841236726847102038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_32
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2165
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb69a5a6e7ab34650800000000000000
+      internalID: 6216016962814383806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_33
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2136
+        width: 99
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9631c79fbe4d58090800000000000000
+      internalID: -8032780250377350295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_34
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 1935
+        width: 551
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adf33069f0496cf0800000000000000
+      internalID: -258604063792038487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_35
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 1815
+        width: 458
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90549132cc810210800000000000000
+      internalID: 1297472933342761115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_36
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1953
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4658b12a6c5b8b130800000000000000
+      internalID: 3582813368301094244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_37
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2060
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049926b916578410800000000000000
+      internalID: 1479245671044846593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_38
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1821
+        width: 245
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840306ab54085d40800000000000000
+      internalID: 5573209330544739469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_39
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1864
+        width: 128
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0ce97741d898810800000000000000
+      internalID: 1768099447765385429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1716
+        width: 79
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498ab3dd84b8ada90800000000000000
+      internalID: -7288359901880145772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1710
+        width: 132
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7853dfd1783b4b740800000000000000
+      internalID: 5166952065405891975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1882
+        width: 207
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2def8aa0505b86bf0800000000000000
+      internalID: -330815539353420078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_43
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1629
+        width: 256
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa0e10b2c1f78160800000000000000
+      internalID: 7027851562015656621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_44
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1793
+        width: 162
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c71f75feae606020800000000000000
+      internalID: 2332986304700028872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_45
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1866
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442e73d2083565a0800000000000000
+      internalID: -6528750500014316470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_46
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1911
+        width: 258
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7e2414d9d709650800000000000000
+      internalID: 6237623598266378220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_47
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1509
+        width: 306
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3201f6f9197b5dfd0800000000000000
+      internalID: -2317744597139255261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_48
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1825
+        width: 282
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fda9a132a52a6f0800000000000000
+      internalID: -674877887335440500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_49
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1801
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615e0e58d7c6c3a90800000000000000
+      internalID: -7332866806893189866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_50
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 1659
+        width: 172
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c4e8ee5f7e2be70800000000000000
+      internalID: 9129614438088723581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1446
+        width: 257
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69adf21309f5f00800000000000000
+      internalID: 1107762574287083256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_52
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1461
+        width: 184
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7440eee7334de890800000000000000
+      internalID: -7427206302954142597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_53
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1294
+        width: 158
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de6c4eed53c13d10800000000000000
+      internalID: 2103677309156093650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_54
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1309
+        width: 259
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5bb669e44225300800000000000000
+      internalID: 239293650153747906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_55
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1430
+        width: 247
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9ce48c6c6f18580800000000000000
+      internalID: -8826502461044897298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_56
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1613
+        width: 429
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa2435073e477f0800000000000000
+      internalID: -615617177470195064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_57
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 1475
+        width: 210
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2f97a30caba1f0800000000000000
+      internalID: -1032542557854290186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_58
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 1613
+        width: 456
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072c7568d058a7af0800000000000000
+      internalID: -397859323933900176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1079
+        width: 512
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a70f20ef6c23660800000000000000
+      internalID: 7364167134977489522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_60
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1290
+        width: 289
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f011e7bcc238640800000000000000
+      internalID: 5080954057109081858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_61
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1088
+        width: 197
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805013d7a4991d5c0800000000000000
+      internalID: -4192401232898226936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_62
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1043
+        width: 419
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647702a59149db570800000000000000
+      internalID: 8484100109643052870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_63
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 1043
+        width: 509
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff48eb8950031ac10800000000000000
+      internalID: 2062982904907990271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_64
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1323
+        width: 215
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc4cace565589a0800000000000000
+      internalID: -6231479544268402735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_65
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 1298
+        width: 466
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced05ae535870090800000000000000
+      internalID: -8068333740800024887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_66
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1065
+        width: 463
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5fdcd6df00b66c0800000000000000
+      internalID: -4149221543222839818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_67
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1090
+        width: 233
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f2d2de9e7a6f60800000000000000
+      internalID: 8028368506348303442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_68
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1114
+        width: 205
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802acb205421046e0800000000000000
+      internalID: -1855462958868684280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_69
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 1108
+        width: 279
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77077e601759e6de0800000000000000
+      internalID: -1337967726602784649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_70
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 111
+        width: 530
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284d16dbc0b46740800000000000000
+      internalID: 5144431063881041952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_71
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 113
+        width: 524
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7e3e1b437e96e0800000000000000
+      internalID: -1828897632198689012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_72
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 111
+        width: 525
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bef03ea061cb3f10800000000000000
+      internalID: 2250605059785162420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_73
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 111
+        width: 525
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e340d6c1c135a670800000000000000
+      internalID: 8549294175966741476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_74
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 113
+        width: 523
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce54462d048f7d9b0800000000000000
+      internalID: -5055299099408710164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contenedores y tipos de basura_75
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 107
+        width: 530
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746266f44d86c3050800000000000000
+      internalID: 5781611282711324231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,6 +9,10 @@ TagManager:
   - GripperUp
   - GripperDown
   - Gripper
+  - PlasticTrashCan
+  - OrganicTrashCan
+  - PaperTrashCan
+  - MetalTrashCan
   layers:
   - Default
   - TransparentFX
