@@ -7,13 +7,19 @@ public class GrabObject : MonoBehaviour
 {
     public GameObject obj;
     public GameObject player;
+    
+    [Header ("Gripper")] //AGREGADO
     public Transform gripperUp; //pinza arriba
     public Transform gripperDown; //pinza abajo
     public Transform gripper; //pinza
 
-    private bool grabbed = false;
+    [Header ("Trash")] //AGREGADO
+    public string typeTrash; //AGREGADO
+    public bool active; //AGREGADO
+    public bool activeDelete; //AGREGADO
 
-    public bool active;
+    [Header ("Animator")] //AGREGADO
+    public Animator animPlayer; //AGREGADO
 
     private void Start()
     {
@@ -21,14 +27,29 @@ public class GrabObject : MonoBehaviour
         gripperUp = GameObject.FindGameObjectWithTag("GripperUp").transform;
         gripperDown = GameObject.FindGameObjectWithTag("GripperDown").transform;
         player = GameObject.FindGameObjectWithTag("Player");
-
+        animPlayer = player.GetComponent<Animator>(); //AGREGADO
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
         if(other.tag == "Gripper")
         {
             active = true;
-
+        }
+        if (typeTrash == "Plastic" && other.tag == "PlasticTrashCan")
+        {
+            activeDelete = true;
+        }
+        if (typeTrash == "Organic" && other.tag == "OrganicTrashCan")
+        {
+            activeDelete = true;
+        }
+        if (typeTrash == "Paper" && other.tag == "PaperTrashCan")
+        {
+            activeDelete = true;
+        }
+        if (typeTrash == "Metal" && other.tag == "MetalTrashCan")
+        {
+            activeDelete = true;
         }
     }
 
@@ -38,77 +59,50 @@ public class GrabObject : MonoBehaviour
         {
             active = false;
         }
+        if (typeTrash == "Plastic" && other.tag == "PlasticTrashCan")
+        {
+            activeDelete = false;
+        }
+        if (typeTrash == "Organic" && other.tag == "OrganicTrashCan")
+        {
+            activeDelete = false;
+        }
+        if (typeTrash == "Paper" && other.tag == "PaperTrashCan")
+        {
+            activeDelete = false;
+        }
+        if (typeTrash == "Metal" && other.tag == "MetalTrashCan")
+        {
+            activeDelete = false;
+        }
     }
 
     private void Update()
     {
-        //if (Input.GetKey(KeyCode.E))
-        //{
-        //    if (grabbed)
-        //    {
-        //        player.GetComponent<Animator>().SetBool("crouched", false);
-        //    }
-        //    else
-        //    {
-        //        player.GetComponent<Animator>().SetBool("crouched", true);
-        //    }
-
-        //    if (active && !grabbed)
-        //    {
-        //        grabbed = true;
-        //        player.GetComponent<Animator>().SetBool("grabbing", true);
-        //        obj.transform.SetParent(gripperDown);
-        //        obj.transform.position = gripperDown.position;
-        //        obj.GetComponent<Rigidbody2D>().gravityScale = 0;
-        //    }
-
-        //    if(!active && grabbed)
-        //    {
-        //        grabbed =false;
-        //        player.GetComponent<Animator>().SetBool("grabbing", false);
-        //        obj.transform.SetParent(null);
-        //        obj.GetComponent<Rigidbody2D>().gravityScale = 1;
-        //    }
-
-        //}
-
-        /// if (Input.GetKeyUp(KeyCode.E))
-        // {
-        //  if (grabbed)
-        //  {
-        //     obj.transform.SetParent(gripperUp);
-        //     obj.transform.position = gripperUp.position;
-        //    player.GetComponent<Animator>().SetBool("crouched", false);
-        //    player.GetComponent<Animator>().SetBool("grabbing", true);
-        // }
-        // else
-        //{
-        //    player.GetComponent<Animator>().SetBool("crouched", false);
-        //     player.GetComponent<Animator>().SetBool("grabbing", false);
-        // }
-
-        //}
-
         if (active)
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
                 obj.transform.SetParent(gripperUp);
                 obj.transform.position = gripperUp.position;
-                //obj.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
                 obj.GetComponent<Rigidbody2D>().gravityScale = 0;
-
+                animPlayer.SetBool("crouched", true); //AGREGADO
+                animPlayer.SetBool("grabbing", true); //AGREGADO
             }
-
             if (Input.GetKeyDown(KeyCode.R))
             {
                 obj.transform.SetParent(null);
                 obj.GetComponent<Rigidbody2D>().gravityScale = 1;
-
+                animPlayer.SetBool("grabbing", false); //AGREGADO
+                if (activeDelete)
+                {
+                    Destroy(obj);
+                    //MARI ACÁ VA SUMAR PUNTAJE!!!//
+                }
             }
         }
+        animPlayer.SetBool("crouched", false); //AGREGADO
     }
-
 }
 
 
